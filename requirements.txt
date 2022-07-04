@@ -1,0 +1,5 @@
+discord.py
+requests
+schedule
+discord_components
+mojang
