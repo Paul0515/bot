@@ -539,4 +539,4 @@ async def add_embed(ctx, msg, embed):
 
 
 
-bot.run(config['bot_token'])   
+bot.run('OTQ3MjkzMDQ2NTg2ODY3ODU0.GNIaI5.wJpAlVmE9xx7tqXRnVh0jmHcR9JB0lxjkO-BCI')   
